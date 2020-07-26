@@ -1,0 +1,70 @@
+.logo {
+    height: 45px;
+  }
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 400;
+}
+
+header .carousel-inner .item{
+  height: 100vh;
+}
+/* .carousel-inner img{
+  height: 100vh;
+  position: cover;
+} */
+.navbar-inverse{
+  background-color: transparent;
+  border-color: #000;
+}
+.navbar-inverse .navbar-brand{
+  color: #fff;
+  font-size: 40px;
+  padding: 40px 15px;
+  font-weight: 900;
+}
+
+/* curesule */
+
+html,body {
+  height: 100%;
+  width: 100%;
+}
+
+.padding {
+    padding: 80px 0;
+}
+.padding img {
+  width: 100%;
+}
+
+#fixed {
+  background: url(/img/fixed\ back.jpg) no-repeat center center fixed;
+  display: table;
+  height: 60%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+footer {
+  width: 100%;
+  padding: 35px;
+  background-color: #383838;
+  padding: 5% 5% 5% 5%;
+  color: #fff;
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  color: #fff;
+}
+.fa:hover {
+  color: violet;
+  text-decoration: none;
+}
+.icon {
+  max-width: 200px;
+}
